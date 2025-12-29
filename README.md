@@ -63,6 +63,28 @@ The dataset includes **231 Indian companies** with the following features:
 - **Evaluation Metrics:** Mean Squared Error (MSE), R² Score, and Accuracy for classification tasks.  
 
 ---
+## App Screenshots
+
+### File Upload & Column Mapping
+
+| File Upload | Column Mapping 1 | Column Mapping 2 |
+|------------|-----------------|-----------------|
+| ![](screenshots/fileUpload.png) | ![](screenshots/columnMapping1.png) | ![](screenshots/columnMapping2.png) |
+
+### Data Preparation & Scoring
+
+| Column Mapping 3 | Columns Preview | Score Calculation |
+|-----------------|-----------------|------------------|
+| ![](screenshots/columnMapping3.png) | ![](screenshots/columnPreview.png) | ![](screenshots/scoreCalculation.png) |
+
+### Visualization
+
+<p align="center">
+  <img src="screenshots/visualization.png" width="900">
+</p>
+
+<p align="center">Interactive risk visualization highlighting company-wise risk levels and performance insights.</p>
+
 
 ## 🖥️ Frontend Structure  
 
